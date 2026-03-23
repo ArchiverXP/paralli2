@@ -11,7 +11,20 @@
 
 ## Non-Ubuntu Distros
 
-You can use Toolbox to create a Ubuntu container, follow the guide at https://wiki.archlinux.org/title/Toolbox and then just proceed with the guide.
+You can use Toolbox to create a Ubuntu container.
+
+### Arch Linux
+Follow the guide at https://wiki.archlinux.org/title/Toolbox.
+
+### Other distros
+
+Install Toolbox using your distro's package manager and follow the universal steps.
+
+### UNIVERSAL STEPS:
+
+1. `toolbox create -d ubuntu -r 24.04`
+2. `toolbox enter ubuntu-toolbox-24.04`
+Proceed with the guide as normal.
 
 ## Initial setup
 
