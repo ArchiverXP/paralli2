@@ -1,4 +1,7 @@
-# PaRappa the Rapper 2 Decompilation
+# PaRappa the Rapper 2 Decomp (Allison's Fork)
+A fork of the PaRappa 2 Decomp with some extra features
+
+# Original README:
 ![build](https://img.shields.io/github/actions/workflow/status/parappadev/parappa2/build.yml?branch=main&label=build)
 ![progress](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/parappadev/parappa2/main/progress/total_progress.json)
 ![discord](https://img.shields.io/discord/302537923910303744?color=%235865F2&logo=discord&logoColor=%23FFFFFF)
