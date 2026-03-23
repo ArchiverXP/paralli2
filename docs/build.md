@@ -24,6 +24,7 @@ Install Toolbox using your distro's package manager and follow the universal ste
 
 1. `toolbox create -d ubuntu -r 24.04`
 2. `toolbox enter ubuntu-toolbox-24.04`
+   
 Proceed with the guide as normal.
 
 ## Initial setup
