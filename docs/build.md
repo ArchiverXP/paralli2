@@ -39,6 +39,10 @@ build/WAVE2PS2.IRX.rom: OK
 build/SCPS_150.17.rom: OK
 ```
 
+## For a shiftable build:
+1. `./configure.py --no_match`
+2. `ninja`
+
 ## Generate/update the progress report
 1. After a successful build, run `./configure.py --objdiff`
 2. `./tools/objdiff-cli report generate -p . -o progress/report.json -f json-pretty`
