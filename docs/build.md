@@ -9,6 +9,10 @@
   - [Generate/update the progress report](#generateupdate-the-progress-report)
   - [asm-differ setup](#asm-differ-setup)
 
+## Non-Ubuntu Distros
+
+You can use Toolbox to create a Ubuntu container, follow the guide at https://wiki.archlinux.org/title/Toolbox and then just proceed with the guide.
+
 ## Initial setup
 
 1. `sudo apt install gcc-mipsel-linux-gnu binutils-mips-linux-gnu ninja-build`
