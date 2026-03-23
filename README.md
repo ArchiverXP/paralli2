@@ -1,5 +1,10 @@
 # PaRappa the Rapper 2 Decomp (Allison's Fork)
-A fork of the PaRappa 2 Decomp with some extra features
+A fork of the PaRappa 2 Decomp with some features.
+
+## FEATURES:
+Stage Select in Debug Mode.
+English on by default.
+Boxy Boy is automatically skipped.
 
 # Original README:
 ![build](https://img.shields.io/github/actions/workflow/status/parappadev/parappa2/build.yml?branch=main&label=build)
