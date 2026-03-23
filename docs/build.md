@@ -58,7 +58,7 @@ build/SCPS_150.17.rom: OK
 ```
 
 ## For a shiftable build:
-1. `./configure.py --no_match`
+1. `./configure.py -no_match`
 2. `ninja`
 
 ## Generate/update the progress report
